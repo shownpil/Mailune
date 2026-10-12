@@ -1,0 +1,46 @@
+# 실제 운영 환경 설정 파일
+config/config.inc.php
+**/config.inc.php
+.env
+.env.*
+!.env.example
+
+# SSL 인증서 및 개인 키
+*.key
+*.p12
+*.pfx
+*.pem
+*.p7b
+*.p7c
+*.crt
+*.cer
+
+# 로그 및 임시 파일
+*.log
+logs/
+temp/
+tmp/
+cache/
+
+# 데이터베이스 및 백업 파일
+*.sqlite
+*.sqlite3
+*.db
+*.sql
+*.sql.gz
+*.bak
+*.backup
+
+# 메일 데이터
+Maildir/
+maildata/
+mail-data/
+
+# Windows 및 운영체제 관련 파일
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 개발 도구 설정 파일
+.vscode/
+.idea/
