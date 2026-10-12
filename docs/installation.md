@@ -12,7 +12,7 @@
 
 ## 2. 시스템 구성
 
-SHONPIL WEBMAIL은 Windows Server 환경에서 운영되는 웹메일 서비스입니다.
+MAILUNE은 Windows Server 환경에서 운영되는 웹메일 서비스입니다.
 
 - Roundcube: 웹 브라우저에서 이메일을 확인하고 관리하는 인터페이스
 - hMailServer: 이메일 수신 및 발신을 처리하는 메일 서버
