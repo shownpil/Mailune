@@ -1,4 +1,4 @@
-# SHONPIL WEBMAIL
+# MAILUNE
 
 션필이 직접 구축하고 운영하는 웹메일 서비스 프로젝트입니다.
 
